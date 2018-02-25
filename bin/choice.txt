@@ -1,0 +1,1 @@
+/root/bin/qn27.sh: line 19: dialog: command not found
